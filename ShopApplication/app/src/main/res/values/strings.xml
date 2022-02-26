@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ShopApplication</string>
+    <string name="wpisz_haslo">Wpisz hasło</string>
+    <string name="zatwierdz">Zatwierdź</string>
+    <string name="powtorz_haslo">Powtórz hasło</string>
+    <string name="zatwierdz_i_zaloguj">Zatwierdź i zaloguj</string>
+    <string name="wpisz_email">Wpisz email</string>
+    <string name="wpisz_nazwe_uzytkownika">Wpisz nazwę użytkownika</string>
+    <string name="wpisz_imie">Wpisz imię</string>
+    <string name="wpisz_nazwisko">Wpisz nazwisko</string>
+    <string name="zaloguj">Zaloguj</string>
+    <string name="zarejestruj">Zarejestruj</string>
+    <string name="powrot">Powrót</string>
+    <string name="tworca">Twórca</string>
+    <string name="adam_wieliczko">Adam Wieliczko</string>
+    <string name="mail_adam_piotr_w_wp_pl">Mail: adam.piotr.w@wp.pl</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="finalize">Sfinalizuj</string>
+    <string name="Accept_Transaction">Akceptuj transakcję</string>
+    <string name="SendErrorInfo">Send error info</string>
+    <string name="donate">Donate</string>
+    <string name="witamywaplikacjigamesky">Witamy w aplikacji GameSky</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+</resources>

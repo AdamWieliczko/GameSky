@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/adamp/Desktop/Android/Android/ShopApplication/app/src/main/res/layout/activity_creators.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/Desktop/Android/Android/ShopApplication/app/src/main/res/layout/activity_finalize_shopping_cart.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/Desktop/Android/Android/ShopApplication/app/src/main/res/layout/activity_main.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/Desktop/Android/Android/ShopApplication/app/src/main/res/layout/activity_products.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/Desktop/Android/Android/ShopApplication/app/src/main/res/layout/fragment_item.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/Desktop/Android/Android/ShopApplication/app/src/main/res/layout/fragment_item_list.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/Desktop/Android/Android/ShopApplication/app/src/main/res/layout/fragment_product.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/activity_creators.xml" value="0.14649122807017545" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/activity_maps.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/activity_products.xml" value="0.14649122807017545" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/fragment_accept_transaction_button.xml" value="0.14649122807017545" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/fragment_creator_photo.xml" value="0.14649122807017545" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/fragment_donate_button.xml" value="0.14649122807017545" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/fragment_finalize_button.xml" value="0.14649122807017545" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/fragment_insert_nickname.xml" value="0.14649122807017545" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/fragment_logo_picture.xml" value="0.14649122807017545" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/fragment_send_error_info_button.xml" value="0.14649122807017545" />
+        <entry key="..\:/Users/adamp/Desktop/Android/ShopApplication/app/src/main/res/layout/fragment_shop_location_map.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/activity_creators.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/activity_finalize_shopping_cart.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/activity_main.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/activity_products.xml" value="0.33" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/activity_registration.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_accept_transaction.xml" value="0.2850877192982456" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_accept_transaction_button.xml" value="0.2850877192982456" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_back_button.xml" value="0.2850877192982456" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_close_app.xml" value="0.2850877192982456" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_close_app_button.xml" value="0.2850877192982456" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_confirm.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_confirm_and_login.xml" value="0.2850877192982456" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_creator_photo.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_creators_button.xml" value="0.2850877192982456" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_creators_description.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_donate_button.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_finalize_button.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_insert_email.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_insert_name.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_insert_nickname.xml" value="0.2850877192982456" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_insert_password.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_insert_surname.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_item.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_item_list.xml" value="0.33" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_login.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_logo_picture.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_password.xml" value="0.2850877192982456" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_register.xml" value="0.2969298245614035" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_repeat_password.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/adamp/IdeaProjects/ShopApplication/app/src/main/res/layout/fragment_send_error_info_button.xml" value="0.2969298245614035" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
